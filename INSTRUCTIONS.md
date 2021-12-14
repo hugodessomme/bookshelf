@@ -2,7 +2,10 @@
 
 ## 📝 Your Notes
 
-Elaborate on your learnings here in `INSTRUCTIONS.md`
+J'ai pratiqué la configuration initiale d'un projet React. J'ai intégré un début
+de page de connexion avec des modals gérées avec le package `@reach/dialog` qui
+apporte une couche d'accessibilité. J'ai géré un formulaire avec récupération
+des données saisies à l'envoi.
 
 ## Background
 
