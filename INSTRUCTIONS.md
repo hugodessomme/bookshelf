@@ -2,7 +2,9 @@
 
 ## 📝 Your Notes
 
-Elaborate on your learnings here in `INSTRUCTIONS.md`
+J'ai pratiqué les requêtes API d'abord avec un simple `fetch`, puis une
+abstraction de cette méthode pour ne pas répéter l'url de l'API, la
+désérialisation des données et la gestion des erreurs, et enfin avec un hook.
 
 ## Background
 
