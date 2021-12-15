@@ -2,7 +2,9 @@
 
 ## 📝 Your Notes
 
-Elaborate on your learnings here in `INSTRUCTIONS.md`
+J'ai appris à utiliser les "styled components" avec le package `emotion`. J'ai
+aussi vu l'intérêt d'appliquer soit des styles sur un "styled component" ou en
+inline.
 
 ## Background
 
